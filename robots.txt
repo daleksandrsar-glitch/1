@@ -1,0 +1,5 @@
+# robots.txt for https://sarkisian.dnc.su
+User-agent: *
+Allow: /
+
+Sitemap: https://sarkisian.dnc.su/sitemap.xml
